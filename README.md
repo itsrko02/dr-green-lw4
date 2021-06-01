@@ -1,7 +1,6 @@
 # plant_disease_detection
 
-A new Flutter application.
-
+Linux World Team 13
 ## Getting Started
 
 This project is a starting point for a Flutter application.

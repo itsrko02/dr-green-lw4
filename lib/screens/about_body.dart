@@ -51,10 +51,10 @@ class AboutPage extends StatelessWidget {
                     ),
                   ),
                   Text(
-                    "Abhijeet Kumar Singh, Adarsh Maurya & Nitish Kumar Arya",
-                    overflow: TextOverflow.ellipsis,
+                    "LW-4-TEAM 13",
+                    // overflow: TextOverflow.ellipsis,
                     style: TextStyle(
-                      fontSize: 14.0,
+                      fontSize: 17.0,
                       color: Colors.green,
                     ),
                   ),
