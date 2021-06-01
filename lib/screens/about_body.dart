@@ -51,9 +51,10 @@ class AboutPage extends StatelessWidget {
                     ),
                   ),
                   Text(
-                    "Green.io",
+                    "Abhijeet Kumar Singh, Adarsh Maurya & Nitish Kumar Arya",
+                    overflow: TextOverflow.ellipsis,
                     style: TextStyle(
-                      fontSize: 18.0,
+                      fontSize: 14.0,
                       color: Colors.green,
                     ),
                   ),
